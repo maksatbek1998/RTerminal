@@ -16,3 +16,7 @@ C:\Proekt\RTerminal\RTerminal\obj\Debug\RTerminal.pdb
 C:\Proekt\RTerminal\RTerminal\obj\Debug\Style\Component_Style.baml
 C:\Proekt\RTerminal\RTerminal\obj\Debug\App.baml
 C:\Proekt\RTerminal\RTerminal\obj\Debug\RTerminal_Content.g.cs
+C:\Proekt\RTerminal\RTerminal\obj\Debug\Zagruzka.g.cs
+C:\Proekt\RTerminal\RTerminal\obj\Debug\Zagruzka.baml
+C:\Proekt\RTerminal\RTerminal\obj\Debug\Window1.g.cs
+C:\Proekt\RTerminal\RTerminal\obj\Debug\Window1.baml

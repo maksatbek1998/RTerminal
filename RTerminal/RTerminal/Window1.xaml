@@ -1,0 +1,18 @@
+﻿<Window x:Class="RTerminal.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RTerminal"
+        mc:Ignorable="d"
+       Title="Sleep_Window" Height="180" Width="350" 
+        Background="White" Opacity="0.9"
+        WindowStyle="None"  WindowStartupLocation="CenterScreen" AllowsTransparency="True"  Loaded="Window_Loaded" Topmost="True">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Операция завершена ушпешна." FontSize="22" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="#0A6E9E" FontWeight="Medium"/>
+            <TextBlock Text="Пожалуйста, возьмите чек." FontSize="22" VerticalAlignment="Top" HorizontalAlignment="Center" Foreground="#0A6E9E" FontWeight="Medium"/>
+            <Image Source="Image/Icon/Correctly.png" Width="45"/>
+        </StackPanel>
+    </Grid>
+</Window>
