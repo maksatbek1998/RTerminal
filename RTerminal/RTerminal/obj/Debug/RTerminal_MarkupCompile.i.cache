@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Proekt\RTerminal\RTerminal\obj\Debug\
+D:\terminal\RTerminal\RTerminal\obj\Debug\
 RTerminal
 none
 false
 DEBUG;TRACE
-C:\Proekt\RTerminal\RTerminal\App.xaml
-2-1076359491
+D:\terminal\RTerminal\RTerminal\App.xaml
+3-732535924
 11574833452
-61434861427
-13-1505183044
-MainWindow.xaml;Style\Component_Style.xaml;
+8141473103
+16-1277694412
+Classes\ForPrint.xaml;MainWindow.xaml;Style\Component_Style.xaml;
 
 True
 
